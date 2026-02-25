@@ -49,3 +49,16 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/b-a-r-u-n/pastel-ecommerce.git
+```
+
+#### Install  dependencies
+```sh
+npm install
+```
+
+### 3️⃣ Start the Application
+
+#### Start the frontend
+```sh
+npm run dev
+```
