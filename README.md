@@ -58,7 +58,7 @@ npm install
 
 ### 3️⃣ Start the Application
 
-#### Start the frontend
+#### Start 
 ```sh
 npm run dev
 ```
